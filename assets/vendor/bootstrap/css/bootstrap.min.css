@@ -88,7 +88,7 @@ $custom-theme-colors: (
   --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
   --bs-body-font-family: var(--bs-font-sans-serif);
   --bs-body-font-size: 1rem;
-  --bs-body-font-weight: 400;
+  --bs-body-font-weight: normal;
   --bs-body-line-height: 1.5;
   --bs-body-color: #212529;
   --bs-body-bg: white;
@@ -2373,7 +2373,7 @@ progress {
   width: 100%;
   padding: 0.375rem 0.75rem;
   font-size: 1rem;
-  font-weight: 400;
+  font-weight: normal;
   line-height: 1.5;
   color: #212529;
   background-color: white;
@@ -2549,7 +2549,7 @@ textarea.form-control-lg {
   padding: 0.375rem 2.25rem 0.375rem 0.75rem;
   -moz-padding-start: calc(0.75rem - 3px);
   font-size: 1rem;
-  font-weight: 400;
+  font-weight: normal;
   line-height: 1.5;
   color: #212529;
   background-color: white;
@@ -2987,7 +2987,7 @@ textarea.form-control-lg {
           align-items: center;
   padding: 0.375rem 0.75rem;
   font-size: 1rem;
-  font-weight: 400;
+  font-weight: normal;
   line-height: 1.5;
   color: #212529;
   text-align: center;
